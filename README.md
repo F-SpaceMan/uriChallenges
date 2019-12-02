@@ -2,7 +2,7 @@
 
 Este repositório apresenta uma série de desafios da plataforma URI Judge resolvidos por mim.
 
-A seguir, a descrição de cada desafio:
+A seguir, a descrição de cada desafio.
 
 ## 1013 - O maior
 Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”. Utilize a fórmula:
